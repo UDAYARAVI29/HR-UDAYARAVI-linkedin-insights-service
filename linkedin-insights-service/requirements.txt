@@ -1,0 +1,54 @@
+# FastAPI and ASGI server
+fastapi==0.110.0
+uvicorn==0.27.1
+
+# Web Scraping
+scrapy==2.11.0
+beautifulsoup4==4.12.3
+requests==2.31.0
+selenium==4.19.0  # If using Selenium for dynamic pages
+
+# Database - PostgreSQL
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.29
+alembic==1.13.1  # For database migrations
+
+# Redis Caching
+redis==5.0.3
+hiredis==2.3.2  # Faster Redis parsing
+
+# Background Tasks & Schedulers
+celery==5.3.6
+flower==2.0.1  # Web UI for Celery monitoring
+
+# Authentication & Security
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+pyjwt==2.8.0
+
+# Data Validation
+pydantic==2.6.4
+email-validator==2.1.1  # Validate email fields in schemas
+
+# Storage - AWS S3 / GCS
+boto3==1.34.57  # AWS S3 SDK
+google-cloud-storage==2.16.0  # GCS SDK
+
+# Logging & Monitoring
+loguru==0.7.2
+
+# AI & NLP (For AI-based insights)
+openai==1.13.3
+transformers==4.38.2  # Hugging Face Transformers for NLP
+torch==2.2.2  # PyTorch (Required for AI models)
+
+# Testing
+pytest==8.1.1
+httpx==0.27.0
+pytest-asyncio==0.23.6
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Async Support
+aiohttp==3.9.3

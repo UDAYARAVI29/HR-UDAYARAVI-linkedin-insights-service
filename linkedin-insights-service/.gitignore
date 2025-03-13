@@ -1,0 +1,19 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Logs & databases
+*.log
+*.sqlite3
+*.db
+
+# Scrapy Output
+output/*.json
+output/*.csv
+
+# Docker-related
+docker-compose.override.yml
