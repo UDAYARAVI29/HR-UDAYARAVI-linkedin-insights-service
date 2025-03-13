@@ -37,7 +37,6 @@ Dockerization: The entire application is Dockerized for easy deployment.
 
 # Technology Stack Backend Framework: 
 
-FastAPI Database: postgresql 
 
 Scraper: BeautifulSoup / Scrapy / Selenium 
 
