@@ -47,7 +47,7 @@ AWS S3
 
 Containerization: Docker
 
-# Conclusion This project provides a scalable, efficient, and AI-powered LinkedIn insights microservice with robust scraping, database storage, and API endpoints. It meets all mandatory requirements and includes bonus features for enhanced performance.
+# CONCLUSION: This project provides a scalable, efficient, and AI-powered LinkedIn insights microservice with robust scraping, database storage, and API endpoints. It meets all mandatory requirements and includes bonus features for enhanced performance.
 
 # Submitted By: HR UDAYARAVI 
 
